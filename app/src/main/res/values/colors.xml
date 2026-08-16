@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Base surfaces  -->
+    <color name="color_bg">#0B1220</color>
+    <color name="color_surface">#141C2E</color>
+    <color name="color_surface_alt">#1B2540</color>
+    <color name="color_divider">#232D47</color>
+    <!--  Brand / status  -->
+    <color name="color_accent">#2DD4BF</color>
+    <color name="color_critical">#FF4D6D</color>
+    <color name="color_warning">#FFB454</color>
+    <color name="color_offline">#5B6584</color>
+    <!--  Text  -->
+    <color name="color_text_primary">#EAF0FB</color>
+    <color name="color_text_secondary">#8B96B4</color>
+    <color name="color_text_muted">#5B6584</color>
+</resources>
